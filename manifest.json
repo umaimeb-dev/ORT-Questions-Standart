@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "standart",
+  "version": "1.0.0",
+  "name": {
+    "ru": "Вопросы из источников",
+    "ky": "Булактардан алынган суроолор"
+  },
+  "description": {
+    "ru": "Основной набор для подготовки к ОРТ на русском и кыргызском языках: математика, аналогии и дополнение предложений, грамматика, чтение, биология, химия, физика, история и английский язык. Содержит условия, варианты ответов, объяснения и необходимые изображения.",
+    "ky": "Орус жана кыргыз тилдеринде ЖРТга даярдануу үчүн негизги топтом: математика, окшоштуктар жана сүйлөмдөрдү толуктоо, грамматика, окуп түшүнүү, биология, химия, физика, тарых жана англис тили. Шарттар, жооптордун варианттары, түшүндүрмөлөр жана керектүү сүрөттөр камтылган."
+  },
+  "category": "sources",
+  "repository": "https://github.com/Umar151515/ORT-Questions-Standart",
+  "question_count": 13399,
+  "contents": [
+    {
+      "subject": "base_analogy",
+      "language": "ky",
+      "question_count": 1198
+    },
+    {
+      "subject": "base_analogy",
+      "language": "ru",
+      "question_count": 1149
+    },
+    {
+      "subject": "base_gramm",
+      "language": "ky",
+      "question_count": 957
+    },
+    {
+      "subject": "base_gramm",
+      "language": "ru",
+      "question_count": 1011
+    },
+    {
+      "subject": "base_math",
+      "language": "ky",
+      "question_count": 1355
+    },
+    {
+      "subject": "base_math",
+      "language": "ru",
+      "question_count": 1384
+    },
+    {
+      "subject": "base_read",
+      "language": "ky",
+      "question_count": 450
+    },
+    {
+      "subject": "base_read",
+      "language": "ru",
+      "question_count": 450
+    },
+    {
+      "subject": "subj_bio",
+      "language": "ky",
+      "question_count": 500
+    },
+    {
+      "subject": "subj_bio",
+      "language": "ru",
+      "question_count": 497
+    },
+    {
+      "subject": "subj_chem",
+      "language": "ky",
+      "question_count": 500
+    },
+    {
+      "subject": "subj_chem",
+      "language": "ru",
+      "question_count": 499
+    },
+    {
+      "subject": "subj_eng",
+      "language": "ky",
+      "question_count": 170
+    },
+    {
+      "subject": "subj_eng",
+      "language": "ru",
+      "question_count": 166
+    },
+    {
+      "subject": "subj_hist",
+      "language": "ky",
+      "question_count": 160
+    },
+    {
+      "subject": "subj_hist",
+      "language": "ru",
+      "question_count": 160
+    },
+    {
+      "subject": "subj_math",
+      "language": "ky",
+      "question_count": 993
+    },
+    {
+      "subject": "subj_math",
+      "language": "ru",
+      "question_count": 1000
+    },
+    {
+      "subject": "subj_phy",
+      "language": "ky",
+      "question_count": 400
+    },
+    {
+      "subject": "subj_phy",
+      "language": "ru",
+      "question_count": 400
+    }
+  ],
+  "archive": {
+    "url": "https://github.com/Umar151515/ORT-Questions-Standart/releases/download/v1.0.0/questions-v1.0.0.zip",
+    "size_bytes": 17474001,
+    "unpacked_size_bytes": 32034472,
+    "sha256": "733a149ebe0343d983b3a7b6b992cb005831d5d1ded29c6ffd0bc6609da1fdc7"
+  }
+}
